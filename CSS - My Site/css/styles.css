@@ -1,0 +1,150 @@
+body {
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+
+  text-align: center;
+  font-family: Rammetto One;
+}
+
+.handwritten {
+  font-family: sacramento;
+  font-size: 4rem;
+  margin: 0;
+}
+
+.dick {
+  text-decoration: underline;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-size: 5.65rem;
+  line-height: 2;
+}
+
+h2 {
+  font-size: 2.52rem;
+  color: #f4a548;
+}
+
+h3 {
+  color: #f4a548;
+}
+
+.top-container {
+  padding-top: 100px;
+  background-color: #7ebdb4;
+  position: relative;
+}
+
+.middle-container {
+  margin-top: 30px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 20px;
+  right: 25%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 300px;
+  left: 25%;
+}
+
+.skill-row {
+  width: 60%;
+  margin: 100px auto;
+  text-align: left;
+  clear: both;
+}
+
+.topskill {
+  margin-bottom: 200px;
+}
+
+.skill-row p {
+  line-height: 2;
+}
+
+.office {
+  width: 25%;
+}
+
+.office2 {
+  width: 50%;
+  float: left;
+  margin-right: 30px;
+}
+
+.office3 {
+  width: 50%;
+  float: right;
+  margin-left: 30px;
+}
+
+p {
+  color: #40514e;
+}
+
+.skill-row {
+  margin-bottom: 250px;
+}
+
+hr {
+  border: 0;
+  border-top: 10px dotted #eaf6f6;
+  width: 9%;
+  clear: both;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.btn {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #f6d198;
+  font-family: Rammetto One;
+  font-size: 30px;
+  font-weight: 100;
+  padding: 20px;
+  background-color: #7ebdb4;
+  border: solid #7ebdb4 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin-bottom: 200px;
+}
+
+.btn:hover {
+  background: #862a5c;
+  border: solid #862a5c 1px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  text-decoration: none;
+}
+
+.bottom-container {
+  background-color: #7ebdb4;
+  padding: 80px;
+}
+
+.footer-link {
+  margin: 30px;
+}
+
+.bottom-container p {
+  margin-top: 50px;
+}
+
+a {
+  color: #f4a548;
+}
+
+.bottom-container a:hover {
+  color: #862a5c;
+}

@@ -1,0 +1,17 @@
+footer, header {
+    text-decoration: underline;
+    color: red;
+}
+
+section article{
+    font-size: 200%;
+}
+
+aside{
+    font-weight:bolder;
+    color:blue;
+}
+
+section article:hover{
+    background-color: #ff0000;
+}
